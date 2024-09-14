@@ -1,4 +1,4 @@
-# Hello, I'm [Ashok] 👋
+# Hello, I'm Ashok👋
 
 Welcome to my GitHub profile! Check out my [Portfolio](https://ashoksatpute.github.io/ashoksatpute/) for more about my work and projects.
 
